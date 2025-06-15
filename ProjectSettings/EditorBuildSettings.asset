@@ -6,7 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Level 1.unity
+    path: Assets/Scenes/TitleSeane.unity
+    guid: e8dad93c574e32f4993c136ac9f54210
+  - enabled: 1
+    path: Assets/Scenes/GameLevel.unity
+    guid: 237c82f7a4a58954f9da859ffd0ac1eb
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
